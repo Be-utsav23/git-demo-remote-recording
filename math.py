@@ -6,7 +6,7 @@ def subtract(x,y):
     return x-y      #from remote
 # Multiply Implementation
 def multiply(x,y):
-    pass
+    return x*y   #from local repo
 # Divide Implementation
 def divide(x,y):
     pass
